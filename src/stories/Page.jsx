@@ -64,7 +64,7 @@ export const Page = () => {
           </svg>
           Viewports addon in the toolbar
           Viewports addon in the toolbar
-          Viewports addon in the toolbar
+          
 
         </div>
       </section>
